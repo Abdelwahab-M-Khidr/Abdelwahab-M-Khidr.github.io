@@ -28,8 +28,16 @@ Location: Egypt
 - **Pre-Master Studies (2022-2023)**  
 - **Master in Linguistics and Hybrid Translation (2023-2024)**
 
-## Certifications & Skills  
-- **Linguistic Analysis**: Expertise in contemporary and classical English literature  
-- **Research & Copywriting**: Two years of experience in academic writing  
-- **Certificate of Excellence** from the Egyptian Armed Forces for financial administration  
-- **Digital Proficiency**: FDTC (Fundamentals of Digital Transformation), CAT tools, and AI models  
+# CERTIFICATIONS & SKILLS
+- **Linguistic Analysis**: Expertise in both contemporary and classical English literature.
+- **Literary Criticism**: Extensive knowledge and application of theoretical frameworks.
+- **Research & Copywriting**: 2 years of experience writing reports with strong analytical and academic writing abilities.
+- **Certificate of Excellence from the Egyptian Armed Forces**: For distinguished service in financial administration.
+
+## Digital Proficiency
+- **FDTC (Fundamentals of Digital Transformation)**: Proficient in Microsoft Office suite, networking, and mobile applications.
+- **Certification in Digital Services**: Focused on facilitating digital life for students and researchers.
+  
+## Technology Integration
+- Experience using digital and AI tools to enhance academic processes.
+- Proficiency in CAT tools, subtitle editors, video editors, and AI models.
