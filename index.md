@@ -1,6 +1,6 @@
 # 
 
-![Experience Image](https://github.com/Abdelwahabkhidr1997/abdelwahabkhidr1997.github.io/blob/main/README.md)
+![Circular Image](https://github.com/Abdelwahabkhidr1997/abdelwahabkhidr1997.github.io/blob/main/README.md)
 
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator & Copywriter**  
