@@ -8,7 +8,7 @@ Location: Egypt
 
 ### Translation  
 - **One year of experience** translating various types of content including legal documents (Arabic-English), films, and advertisements.
-- Ensured **accuracy**, cultural relevance, and adherence to client-specific guidelines.
+- Ensured accuracy, cultural relevance, and adherence to client-specific guidelines.
 
 ### Academic Researcher and Copywriter  
 - **Two years of experience** in writing and analyzing academic reports.
@@ -28,10 +28,10 @@ Location: Egypt
 - **Pre-Master Studies (2022-2023)**  
 - **Master in Linguistics and Hybrid Translation (2023-2024)**
 
-# CERTIFICATIONS & SKILLS
+## CERTIFICATIONS & SKILLS
 - **Linguistic Analysis**: Expertise in both contemporary and classical English literature.
 - **Literary Criticism**: Extensive knowledge and application of theoretical frameworks.
-- **Research & Copywriting**: 2 years of experience writing reports with strong analytical and academic writing abilities.
+- **Research & Copywriting**: writing reports with strong analytical and academic writing abilities.
 - **Certificate of Excellence from the Egyptian Armed Forces**: For distinguished service in financial administration.
 
 ## Digital Proficiency
