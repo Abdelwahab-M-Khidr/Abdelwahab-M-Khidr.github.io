@@ -1,4 +1,3 @@
-# 
 
 ![Circular Image](README.md)
 
