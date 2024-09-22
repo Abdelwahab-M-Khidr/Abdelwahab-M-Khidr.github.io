@@ -10,7 +10,7 @@ Location: Egypt
 ## Experience
 
 ### Translation  
-- **One year of experience** translating various types of content including legal documents (Arabic-English), films, and advertisements.
+- **Two year of experience** translating various types of content including legal documents (Arabic-English), films, and advertisements.
 - Ensured accuracy, cultural relevance, and adherence to client-specific guidelines.
 
 ### Academic Researcher and Copywriter  
@@ -35,7 +35,7 @@ Location: Egypt
 - **Linguistic Analysis**: Expertise in both contemporary and classical English literature.
 - **Literary Criticism**: Extensive knowledge and application of theoretical frameworks.
 - **Research & Copywriting**: writing reports with strong analytical and academic writing abilities.
-- **Certificate of Excellence from the Egyptian Armed Forces**: For distinguished service in financial administration.
+- **Certificate from the Minister of Defense of the Egyptian Armed Forces for excellence during service in the financial administration of the army**
 
 ## Digital Proficiency
 - **FDTC (Fundamentals of Digital Transformation)**: Proficient in Microsoft Office suite, networking, and mobile applications.
