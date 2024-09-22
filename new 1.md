@@ -22,8 +22,8 @@ Location: Egypt
 - **One year of experience** managing financial transactions and records in military protocols.
 
 ## Education 
-Faculty of Arts, English Language Department 
-- Bachelor Degree (2018-2021) 
+**Faculty of Arts, English Language Department** 
+- **Bachelor Degree (2018-2021)** 
 - **Complementary Master Studies (2021-2022)**  
 - **Pre-Master Studies (2022-2023)**  
 - **Master in Linguistics and Hybrid Translation (2023-2024)**
