@@ -1,3 +1,7 @@
+# My Image
+
+![Experience Image](./path_to_image/experience_image.png)
+
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator & Copywriter**  
 Email: Abdelwahabkhidr1997@gmail.com  
