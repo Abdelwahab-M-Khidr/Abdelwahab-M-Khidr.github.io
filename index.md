@@ -1,6 +1,6 @@
-# My Image
+# 
 
-![Experience Image](./path_to_image/experience_image.png)
+![Experience Image](https://github.com/Abdelwahabkhidr1997/abdelwahabkhidr1997.github.io/blob/main/README.md)
 
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator & Copywriter**  
