@@ -1,6 +1,9 @@
 
 ![Circular Image](README.md)
 
+([السيرة الذاتية باللغة العربية Resume in Arabic](https://github.com/Abdelwahab-M-Khidr/Abdelwahab-M-Khidr.github.io/blob/a10163929ce140edf024033184dc925b1250944e/index2.md))
+
+
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator & Copywriter**  
 Email: Abdelwahabkhidr1997@gmail.com  
