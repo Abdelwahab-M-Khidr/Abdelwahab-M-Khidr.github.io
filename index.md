@@ -1,7 +1,8 @@
 
 ![Circular Image](README.md)
 
-([السيرة الذاتية باللغة العربية Resume in Arabic](https://drive.google.com/file/d/1LhXnjRWBgzWZc6fZttgmg0zvghzwBKoO/view?usp=drive_link))
+([السيرة الذاتية باللغة العربية Resume in Arabic](G(index%201.md)
+))
 
 
 # Abdelwahab M. Khidr  
