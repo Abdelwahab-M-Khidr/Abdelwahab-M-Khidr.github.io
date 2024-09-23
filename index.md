@@ -1,7 +1,7 @@
 
 ![Circular Image](README.md)
 
-([السيرة الذاتية باللغة العربية  Resume in Arabic](cv-arabic.pdf))
+[[السيرة الذاتية باللغة العربية  Resume in Arabic](cv-arabic.jpg)]
 
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator & Copywriter**  
