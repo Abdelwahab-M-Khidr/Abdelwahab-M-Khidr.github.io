@@ -1,10 +1,7 @@
 
 ![Circular Image](README.md)
 
-([السيرة الذاتية باللغة العربية Resume in Arabic](G(index%201.md)
-))
-
-
+[Go to Index 1](index%201.md)
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator & Copywriter**  
 Email: Abdelwahabkhidr1997@gmail.com  
