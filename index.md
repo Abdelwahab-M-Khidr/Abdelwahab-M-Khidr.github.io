@@ -1,7 +1,7 @@
 
 ![Circular Image](README.md)
 
-([السيرة الذاتية باللغة العربية Resume in Arabic](https://github.com/Abdelwahab-M-Khidr/Abdelwahab-M-Khidr.github.io/blob/a10163929ce140edf024033184dc925b1250944e/index2.md))
+([السيرة الذاتية باللغة العربية Resume in Arabic](https://drive.google.com/file/d/1LhXnjRWBgzWZc6fZttgmg0zvghzwBKoO/view?usp=drive_link))
 
 
 # Abdelwahab M. Khidr  
