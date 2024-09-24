@@ -7,7 +7,7 @@
 **English Instructor | Legal Translator & Copywriter**  
 - **Email:** [Abdelwahabkhidr1997@gmail.com](mailto:Abdelwahabkhidr1997@gmail.com)  
 - **Phone:** [0201092943953](https://wa.me/201092943953)  
-Location: Egypt
+- **Location:** Egypt
 
 ## Experience  
 
