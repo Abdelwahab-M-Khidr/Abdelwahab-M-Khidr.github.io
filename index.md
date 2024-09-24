@@ -16,7 +16,7 @@ Location: Egypt
 **(2022-2023)**
 
 ### Academic Researcher and Copywriter  
-- Three years of experience writing and analyzing academic reports and advertising copy.  
+- Three years of experience writing and analyzing academic reports and advertising.  
 - Applied new linguistic techniques in report writing and research projects.  
 - Developed research, analysis, and in-depth report writing skills in literary linguistics and English literature.  
 **(2022-2024)**
