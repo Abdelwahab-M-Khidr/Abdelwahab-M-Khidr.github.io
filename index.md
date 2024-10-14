@@ -6,7 +6,8 @@
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator & Copywriter**  
 - **Email:** [Abdelwahabkhidr1997@gmail.com](mailto:Abdelwahabkhidr1997@gmail.com)  
-- **Phone:** [0201092943953](https://wa.me/201092943953)  
+- **Phone:** [0201092943953](https://wa.me/201092943953)
+- **Portfolio:** [Google Drive Portfolio](https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT?usp=sharing)
 - **Location:** Egypt
 
 ## Experience  
