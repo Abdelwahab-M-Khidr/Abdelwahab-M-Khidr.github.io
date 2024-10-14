@@ -44,7 +44,7 @@
   *2023-2024*  
 
 ### Research Projects  
-- Completed 13 mini-research projects in linguistics and English literature.  
+- Completed more than 20 mini-research projects in linguistics and English literature.  
 **(2021-2024)**
 
 ---
