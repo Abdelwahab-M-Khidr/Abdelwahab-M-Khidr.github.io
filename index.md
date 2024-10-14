@@ -51,7 +51,8 @@
 
 ## Certifications  
 - **FDTC (Fundamentals of Digital Transformation):** Microsoft Office programs, networking, and mobile applications.  
-- **Digital Services certification:** Facilitating the digital life of students and researchers.  
+- **Digital Services certification:** Facilitating the digital life of students and researchers.
+- **Certificate of Distinguished Quality from the Faculty of Arts, Kafrelsheikh University**  
 - **Certificate from Egypt's Minister of Defense, General Mohamed Zaki:** Commander-in-Chief of the Armed Forces and Minister of Defense and Military Production.
 
 ---
