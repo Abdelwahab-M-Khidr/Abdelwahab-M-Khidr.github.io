@@ -9,8 +9,8 @@
 - **Phone:** [0201092943953](https://wa.me/201092943953)
 - [LinkedIn Profile](https://www.linkedin.com/in/abdelwahab-khidr-207a53298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Comprehensive Portfolio:** [Hosted on Google Drive for Secure Access](https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT?usp=sharing)
--[Resume - Click Here to Download](https://drive.google.com/file/d/1t0mR_4OgdCoO1dfw55gY6TUPJeocTCUG/view?usp=drivesdk)
--[السيرة الذاتية - اضغط هنا للتنزيل](https://drive.google.com/file/d/1oaxcUkuDadusHNY53rbFieSBXbZmM8o7/view?usp=drivesdk)
+- [Resume - Click Here to Download](https://drive.google.com/file/d/1t0mR_4OgdCoO1dfw55gY6TUPJeocTCUG/view?usp=drivesdk)
+- [السيرة الذاتية - اضغط هنا للتنزيل](https://drive.google.com/file/d/1oaxcUkuDadusHNY53rbFieSBXbZmM8o7/view?usp=drivesdk)
 - **Location:** Egypt
 
 ## Experience  
