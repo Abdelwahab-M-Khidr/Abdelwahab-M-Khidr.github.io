@@ -7,7 +7,7 @@
 **English Instructor | Legal Translator & Copywriter**  
 - **Email:** [Abdelwahabkhidr1997@gmail.com](mailto:Abdelwahabkhidr1997@gmail.com)  
 - **Phone:** [0201092943953](https://wa.me/201092943953)
--**[LinkedIn]:**(https://www.linkedin.com/in/abdelwahab-khidr-207a53298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn]:**(https://www.linkedin.com/in/abdelwahab-khidr-207a53298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Comprehensive Portfolio:** [Hosted on Google Drive for Secure Access](https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT?usp=sharing)
 - **Location:** Egypt
 
