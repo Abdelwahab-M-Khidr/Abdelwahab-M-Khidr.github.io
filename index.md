@@ -101,9 +101,9 @@ This website is available in English and Arabic.
     <ul>
         <li><strong>البريد الإلكتروني:</strong> <a href="mailto:Abdelwahabkhidr1997@gmail.com">Abdelwahabkhidr1997@gmail.com</a></li>
         <li><strong>الهاتف:</strong> <a href="https://wa.me/201092943953">0201092943953</a></li>
-        <li><strong>ملفي على لينكدإن:</strong> <a href="https://www.linkedin.com/in/abdelwahab-khidr-207a53298">لينكدإن</a></li>
-        <li><strong>ملف الأعمال:</strong> <a href="https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT">عرض ملف الأعمال</a></li>
-        <li><strong>الشهادات:</strong> <a href="https://drive.google.com/drive/folders/1p2VSes8Y57UTvuI3CeiY-rOdMKdToe4B">عرض الشهادات</a></li>
+        <li><strong></strong> <a href="https://www.linkedin.com/in/abdelwahab-khidr-207a53298">لينكدإن</a></li>
+        <li><strong></strong> <a href="https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT">عرض ملف الأعمال</a></li>
+        <li><strong></strong> <a href="https://drive.google.com/drive/folders/1p2VSes8Y57UTvuI3CeiY-rOdMKdToe4B">عرض الشهادات</a></li>
     </ul>
 
     
