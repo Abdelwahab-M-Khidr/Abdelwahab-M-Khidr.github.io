@@ -63,9 +63,9 @@ This website is available in English and Arabic.
 ---
 
 ## Certifications  
-- **FDTC (Fundamentals of Digital Transformation):** Microsoft Office programs, networking, and mobile applications.  **2023**
-- **Digital Services certification:** Facilitating the digital life of students and researchers.
-- **Certificate of Distinguished Quality from the Faculty of Arts, Kafrelsheikh University**  
+- **FDTC (Fundamentals of Digital Transformation):** Microsoft Office programs, networking, and mobile applications.  **(2023)**
+- **Digital Services certification:** Facilitating the digital life of students and researchers.  **(2023)**
+- **Certificate of Distinguished Quality from the Faculty of Arts, Kafrelsheikh University**  **(2024)**
 - **Certificate from Egypt's Minister of Defense:** Commander-in-Chief of the Armed Forces and Minister of Defense and Military Production.
 
 ---
@@ -81,7 +81,7 @@ This website is available in English and Arabic.
 <div dir="rtl" style="text-align: right;">
 
 # عبد الوهاب محمد خضر  
-**مدرس لغة إنجليزية | مترجم قانوني | كاتب أكاديمي | خبير في نماذج الترجمة الهجينة والتحليل اللغوي | مصحح لغوي ماهر | ذو خبرة في العمليات الإدارية والتأمين الطبي**  
+**مدرس لغة إنجليزية | مترجم قانوني | كاتب أكاديمي | خبير في نماذج الترجمة الهجينة والتحليل اللغوي | مصحح لغوي |  خبرة في العمليات الإدارية والتأمين الطبي**  
 - **البريد الإلكتروني:** [Abdelwahabkhidr1997@gmail.com](mailto:Abdelwahabkhidr1997@gmail.com)  
 - **الهاتف:** [0201092943953](https://wa.me/201092943953)  
 - [ملفي على لينكدإن](https://www.linkedin.com/in/abdelwahab-khidr-207a53298)  
