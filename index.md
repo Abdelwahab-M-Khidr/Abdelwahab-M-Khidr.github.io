@@ -77,7 +77,7 @@ This website is available in English and Arabic.
 
 ---
 
-<!DOCTYPE html>
+
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
@@ -93,6 +93,7 @@ This website is available in English and Arabic.
 </head>
 <body>
 
+<div class="rtl">
     <h1>عبد الوهاب محمد خضر</h1>
     <p><strong>مدرس لغة إنجليزية | مترجم قانوني | كاتب أكاديمي | خبير في نماذج الترجمة الهجينة والتحليل اللغوي | مصحح لغوي | خبرة في العمليات الإدارية والتأمين الطبي</strong></p>
     
@@ -105,7 +106,7 @@ This website is available in English and Arabic.
         <li><strong>الشهادات:</strong> <a href="https://drive.google.com/drive/folders/1p2VSes8Y57UTvuI3CeiY-rOdMKdToe4B">عرض الشهادات</a></li>
     </ul>
 
-    <div class="rtl">
+    
         <h2>الخبرة:</h2>
         <ul>
             <li><strong>الترجمة:</strong> 2022-2023: ترجمة الوثائق القانونية (عربي-إنجليزي)، والأفلام، والإعلانات.</li>
