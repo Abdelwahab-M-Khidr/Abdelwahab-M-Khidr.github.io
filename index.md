@@ -23,15 +23,13 @@ This website is available in English and Arabic.
 
 ## Experience  
 
-### Translation  
-- Two years of experience translating various content types, including legal documents (Arabic-English) and vice versa, films, and advertisements. Ensuring accuracy, cultural relevance, and adherence to client guidelines.  
-**(2022-2023)**
+### Translation  **(2022-2023)**
+- Two years of experience translating various content types, including legal documents (AR-EN) and vice versa, films, and advertisements. Ensuring accuracy, cultural relevance, and adherence to client guidelines.  
 
-### Academic Researcher and Copywriter  
+### Academic Researcher and Copywriter  **(2022-2024)**
 - Three years of experience writing and analyzing academic reports and advertising.  
 - Applied new linguistic techniques in report writing and research projects.  
 - Developed research, analysis, and in-depth report writing skills in literary linguistics and English literature.  
-**(2022-2024)**
 
 ### English Language Teacher  **(2018-2024)**
 - Seven years of experience teaching English to a wide range of students in 4U Academy.  
@@ -39,12 +37,12 @@ This website is available in English and Arabic.
 - Provided one-on-one lessons to improve English language proficiency.  
 
 
-### Part-Time Medical Insurance Coordinator  
-- **2023**: Processed claims, ensured compliance, and enhanced operational efficiency.  
+### Part-Time Medical Insurance Coordinator  **(2023)** 
+- Processed claims, ensured compliance, and enhanced operational efficiency.  
 
-### Army Financial and Administrative Affairs  
+### Army Financial and Administrative Affairs  **(2022)**
 - One year of experience in financial and administrative affairs in the Egyptian Armed Forces, ensuring accuracy and adherence to military financial protocols.  
-**(2022)**
+
 
 ---
 
@@ -65,10 +63,10 @@ This website is available in English and Arabic.
 ---
 
 ## Certifications  
-- **FDTC (Fundamentals of Digital Transformation):** Microsoft Office programs, networking, and mobile applications.  
+- **FDTC (Fundamentals of Digital Transformation):** Microsoft Office programs, networking, and mobile applications.  **2023**
 - **Digital Services certification:** Facilitating the digital life of students and researchers.
 - **Certificate of Distinguished Quality from the Faculty of Arts, Kafrelsheikh University**  
-- **Certificate from Egypt's Minister of Defense, General Muhammad Zaki:** Commander-in-Chief of the Armed Forces and Minister of Defense and Military Production.
+- **Certificate from Egypt's Minister of Defense:** Commander-in-Chief of the Armed Forces and Minister of Defense and Military Production.
 
 ---
 
