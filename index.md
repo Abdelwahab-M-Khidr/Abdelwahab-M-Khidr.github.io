@@ -80,7 +80,8 @@ This website is available in **English** and **Arabic**. Switch between language
 ---
 
 
-# عبد الوهاب م. خضر  
+<div dir="rtl" style="text-align: right;">
+# عبد الوهاب محمد خضر  
 **مدرس لغة إنجليزية | مترجم قانوني | كاتب أكاديمي | خبير في نماذج الترجمة الهجينة والتحليل اللغوي | مصحح لغوي ماهر | ذو خبرة في العمليات الإدارية والتأمين الطبي**  
 - **البريد الإلكتروني:** [Abdelwahabkhidr1997@gmail.com](mailto:Abdelwahabkhidr1997@gmail.com)  
 - **الهاتف:** [0201092943953](https://wa.me/201092943953)  
