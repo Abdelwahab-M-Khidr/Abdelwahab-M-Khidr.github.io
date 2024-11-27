@@ -134,3 +134,82 @@ This website is available in English and Arabic.
 - إجادة لغتين: العربية (اللغة الأم)، الإنجليزية (بطلاقة).  
 
 </div>
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdelwahab M. Khidr</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Abdelwahab M. Khidr</h1>
+<p><strong>English Instructor | Legal Translator | Academic Writer | Expert in Hybrid Translation Models and Linguistic Analysis | Skilled Proofreader | Experienced in Administrative Operations and Medical Insurance Coordination</strong></p>
+<ul>
+    <li><strong>Email:</strong> <a href="mailto:Abdelwahabkhidr1997@gmail.com">Abdelwahabkhidr1997@gmail.com</a></li>
+    <li><strong>Phone:</strong> <a href="https://wa.me/201092943953">0201092943953</a></li>
+    <li><a href="https://www.linkedin.com/in/abdelwahab-khidr-207a53298">LinkedIn Profile</a></li>
+    <li><strong>Portfolio:</strong> <a href="https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT">View Portfolio</a></li>
+    <li><strong>Certificates:</strong> <a href="https://drive.google.com/drive/folders/1p2VSes8Y57UTvuI3CeiY-rOdMKdToe4B">View Certificates</a></li>
+    <li><a href="https://abdelwahab-m-khidr.github.io/">Visit Website</a></li>
+</ul>
+
+<hr>
+
+<h1>عبد الوهاب محمد خضر</h1>
+<p><strong>مدرس لغة إنجليزية | مترجم قانوني | كاتب أكاديمي | خبير في نماذج الترجمة الهجينة والتحليل اللغوي | مصحح لغوي | خبرة في العمليات الإدارية والتأمين الطبي</strong></p>
+<ul>
+    <li><strong>البريد الإلكتروني:</strong> <a href="mailto:Abdelwahabkhidr1997@gmail.com">Abdelwahabkhidr1997@gmail.com</a></li>
+    <li><strong>الهاتف:</strong> <a href="https://wa.me/201092943953">0201092943953</a></li>
+    <li><a href="https://www.linkedin.com/in/abdelwahab-khidr-207a53298">ملفي على لينكدإن</a></li>
+    <li><strong>ملف الأعمال:</strong> <a href="https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT">عرض ملف الأعمال</a></li>
+    <li><strong>الشهادات:</strong> <a href="https://drive.google.com/drive/folders/1p2VSes8Y57UTvuI3CeiY-rOdMKdToe4B">عرض الشهادات</a></li>
+    <li><a href="https://abdelwahab-m-khidr.github.io/">زيارة الموقع</a></li>
+</ul>
+
+<h2>الخبرة</h2>
+<ul>
+    <li><strong>الترجمة:</strong> 2022–2023: ترجمة الوثائق القانونية (عربي-إنجليزي)، والأفلام، والإعلانات.</li>
+    <li><strong>باحث أكاديمي وكاتب محتوى:</strong> 2022–2024: كتابة وتحليل التقارير الأكاديمية وتطوير المهارات اللغوية والبحثية.</li>
+    <li><strong>مدرس لغة إنجليزية:</strong> 2018–2024: خطط دروس مخصصة ودروس فردية لتحسين الكفاءة في اللغة الإنجليزية.</li>
+    <li><strong>منسق تأمين طبي بدوام جزئي:</strong> 2023: مراجعة ومعالجة المطالبات وتحسين الكفاءة التشغيلية.</li>
+    <li><strong>الشؤون المالية والإدارية للجيش:</strong> 2022: إدارة الشؤون الإدارية داخل القوات المسلحة المصرية.</li>
+</ul>
+
+<h2>التعليم</h2>
+<ul>
+    <li>2018–2021: ليسانس آداب، قسم اللغة الإنجليزية.</li>
+    <li>2021–2023: تمهيدي ماجستير.</li>
+    <li>2023–2024: ماجستير في اللغويات والترجمة الهجينة.</li>
+</ul>
+
+<h2>الشهادات</h2>
+<ul>
+    <li>شهادة الجودة المتميزة، كلية الآداب.</li>
+    <li>شهادة من وزير الدفاع المصري.</li>
+    <li>شهادة التحول الرقمي.</li>
+</ul>
+
+<h2>المهارات</h2>
+<ul>
+    <li>إتقان أدوات الترجمة، برامج تحرير النصوص، ونماذج الذكاء الاصطناعي.</li>
+    <li>إتقان برامج مايكروسوفت أوفيس (وورد، إكسل، باوربوينت).</li>
+    <li>إجادة لغتين: العربية (اللغة الأم)، الإنجليزية (بطلاقة).</li>
+</ul>
+
+</body>
+</html>
