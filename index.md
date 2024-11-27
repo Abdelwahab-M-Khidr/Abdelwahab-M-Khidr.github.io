@@ -15,11 +15,11 @@
 
 ## Multilingual Website  
 
-This website is available in **English** and **Arabic**. Switch between languages for the content that suits your preference.
+This website is available in English and Arabic. Switch between languages for the content that suits your preference.
 
 ## موقع متعدد اللغات  
 
-يتوفر هذا الموقع باللغتين **العربية** و **الإنجليزية**. يمكن التبديل بين اللغتين وفقًا لتفضيلاتك
+يتوفر هذا الموقع باللغتين العربية و الإنجليزية. يمكن التبديل بين اللغتين وفقًا لتفضيلاتك
 
 ## Experience  
 
@@ -81,6 +81,7 @@ This website is available in **English** and **Arabic**. Switch between language
 
 
 <div dir="rtl" style="text-align: right;">
+
 # عبد الوهاب محمد خضر  
 **مدرس لغة إنجليزية | مترجم قانوني | كاتب أكاديمي | خبير في نماذج الترجمة الهجينة والتحليل اللغوي | مصحح لغوي ماهر | ذو خبرة في العمليات الإدارية والتأمين الطبي**  
 - **البريد الإلكتروني:** [Abdelwahabkhidr1997@gmail.com](mailto:Abdelwahabkhidr1997@gmail.com)  
