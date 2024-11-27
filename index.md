@@ -1,7 +1,6 @@
 
 ![Circular Image](README.md)
-
-[[السيرة الذاتية باللغة العربية  Resume in Arabic](cv-arabic.jpg)]
+
 
 # Abdelwahab M. Khidr  
 **English Instructor | Legal Translator | Academic Writer | Expert in Hybrid Translation Models and Linguistic Analysis | Skilled Proofreader | Experienced in Administrative Operations and Medical Insurance Coordination**  
