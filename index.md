@@ -13,13 +13,13 @@
 - [السيرة الذاتية - اضغط هنا للتنزيل](https://drive.google.com/file/d/1_mbsJvpM25iIqW7w_Sy9AvYl8asA1Icc/view?usp=drivesdk)
 ---
 
-## Multilingual Website  
+##  Website  
 
-This website is available in English and Arabic. Switch between languages for the content that suits your preference.
+This website is available in English and Arabic. 
 
-## موقع متعدد اللغات  
+## اللغات  
 
-يتوفر هذا الموقع باللغتين العربية و الإنجليزية. يمكن التبديل بين اللغتين وفقًا لتفضيلاتك
+يتوفر هذا الموقع باللغتين العربية و الإنجليزية.
 
 ## Experience  
 
@@ -114,7 +114,7 @@ This website is available in English and Arabic. Switch between languages for th
 
 ## التعليم  
 
-- **2018–2021**: بكالوريوس آداب، قسم اللغة الإنجليزية.  
+- **2018–2021**: ليسانس آداب، قسم اللغة الإنجليزية.  
 - **2021–2023**: تمهيدي ماجستير.  
 - **2023–2024**: ماجستير في اللغويات والترجمة الهجينة.  
 
