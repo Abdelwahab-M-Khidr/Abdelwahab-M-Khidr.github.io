@@ -10,8 +10,7 @@
 - **Comprehensive Portfolio:** [Hosted on Google Drive for Secure Access](https://drive.google.com/drive/folders/1TP_-6YoHBv9c-Kap2IfASU5GA80PY3uT?usp=sharing)
 - **Certificates:** [View My Certificates](https://drive.google.com/drive/folders/1p2VSes8Y57UTvuI3CeiY-rOdMKdToe4B)
 - [Resume - Click Here to Download](https://drive.google.com/file/d/1slmTQsAv4Rbto-sYVl-gLHcT8izqwewk/view?usp=drivesdk)
-- [السيرة الذاتية - اضغط هنا للتنزيل](https://drive.google.com/file/d/1_mbsJvpM25iIqW7w_Sy9AvYl8asA1Icc/view?usp=drivesdk)
-- **Location:** Egypt
+- [السيرة الذاتية - اضغط هنا للتنزيل](https://drive.google.com/file/d/1_mbsJvpM25iIqW7w_Sy9AvYl8asA1Icc/view?usp=drivesdk)
 ---
 
 ## Multilingual Website  
