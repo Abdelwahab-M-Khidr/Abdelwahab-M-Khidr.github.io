@@ -17,6 +17,10 @@
 
 This website is available in **English** and **Arabic**. Switch between languages for the content that suits your preference.
 
+## موقع متعدد اللغات  
+
+يتوفر هذا الموقع باللغتين **العربية** و **الإنجليزية**. يمكن التبديل بين اللغتين وفقًا لتفضيلاتك
+
 ## Experience  
 
 ### Translation  
