@@ -33,11 +33,11 @@ This website is available in English and Arabic.
 - Developed research, analysis, and in-depth report writing skills in literary linguistics and English literature.  
 **(2022-2024)**
 
-### English Language Teacher  
+### English Language Teacher  **(2018-2024)**
 - Seven years of experience teaching English to a wide range of students in 4U Academy.  
 - Developed and delivered customized lesson plans tailored to each student's needs.  
 - Provided one-on-one lessons to improve English language proficiency.  
-**(2018-2024)**
+
 
 ### Part-Time Medical Insurance Coordinator  
 - **2023**: Processed claims, ensured compliance, and enhanced operational efficiency.  
